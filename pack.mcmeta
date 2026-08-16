@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Better Happy Ghasts",
+    "min_format": [80, 0],
+    "max_format": [999,  0]
+  }
+}

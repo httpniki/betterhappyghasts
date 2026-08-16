@@ -1,0 +1,1 @@
+tellraw @a ["", { text: "[", color: "#aaaaaa" }, { text: "Better Happy Ghasts", click_event: { action:"open_url", url:"https://github.com/httpniki/betterhappyghasts.git/" }  }, { text: "]",  color: "#aaaaaa" }, { text: " loaded! ", color: "#ffffff" }]
